@@ -15,7 +15,10 @@ const Panoramas = (() => {
           
           Cine: () => {
             contenido.innerHTML = `
-                  <img src="https://vignette.wikia.nocookie.net/cine/images/2/23/Star-Wars-Episode-III-Revenge-of-the-Sith.jpg/revision/latest?cb=20120930201011">
+                                         <h4>Star Wars: Episodio III - La venganza de los Sith <h4>
+
+
+                                        <img src="https://vignette.wikia.nocookie.net/cine/images/2/23/Star-Wars-Episode-III-Revenge-of-the-Sith.jpg/revision/latest?cb=20120930201011">
                   `;
           },
           Musica: () => {
